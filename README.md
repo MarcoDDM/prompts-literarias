@@ -47,16 +47,13 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Prompts for Stories Project <a name="about-project"></a>
 
-> This simple project serves to have some ideas when practicing creative writing. Click the "Generate prompt" button and it gives you an image, a simple idea, and a tone in which to write it.
-
-**Prompts for Stories Project** is a...
+**Prompts for Stories Project** is a simple project serves to have some ideas when practicing creative writing. Click the "Generate prompt" button and it gives you an image, a simple idea, and a tone in which to write it..
 
 ## 🛠 Built With <a name="built-with"></a>
 

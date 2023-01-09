@@ -9,16 +9,28 @@
   position: relative;
   top: 100px;
   display: flex;
-  margin: auto;
+  margin: 50px;
   align-items: center;
   justify-content: center;
+  overflow-wrap: break-word;
 }
 
 .descripcion {
   position: relative;
   top: 100px;
   display: flex;
-  margin: auto;
+  margin: 50px;
   align-items: center;
   justify-content: center;
+  overflow-wrap: break-word;
+}
+
+.prompt {
+  position: relative;
+  top: 100px;
+  display: flex;
+  margin: 50px;
+  align-items: center;
+  justify-content: center;
+  overflow-wrap: break-word;
 }

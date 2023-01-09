@@ -67,7 +67,7 @@ const cardsArray = [
     tono: 'Las emociones se elevan a cotas épicas en un drama digno de una película.',
     personaje: '',
     imagen: 'https://picsum.photos/300?random=',
-    idea: 'Vives en un mundo donde no existen dioses.'
+    idea: 'Un hombre se despierta para descubrir que ya no puede oír, pero puede ver cosas que nunca ha visto antes.'
   },
   {
     id: 11,
@@ -81,7 +81,7 @@ const cardsArray = [
     tono: 'La tensión se acumula hasta el punto de ruptura mientras los personajes intentan evitar el peligro inminente.',
     personaje: '',
     imagen: 'https://picsum.photos/300?random=',
-    idea: 'Vives en un mundo donde no existen dioses.'
+    idea: 'Siempre pensé que si olvidabas todas las cosas malas que te habían pasado, era inevitable que también olvidaras todas las cosas buenas. Nunca pensé que enfocarse tanto en las cosas malas atraería...'
   },
   {
     id: 13,
@@ -123,7 +123,7 @@ const cardsArray = [
     tono: 'Las enseñanzas y lecciones de la vida se presentan de manera inspiradora en un cuento edificante.',
     personaje: '',
     imagen: 'https://picsum.photos/300?random=',
-    idea: 'Vives en un mundo donde no existen dioses.¿Cuál es la imagen más hermosa que has visto mientras viajabas?'
+    idea: '¿Cuál es la imagen más hermosa que has visto mientras viajabas?'
   },
   {
     id: 19,
@@ -156,7 +156,7 @@ document.querySelector('button').addEventListener('click', function() {
   // Generamos el HTML para el card aleatorio
   const cardGenerated = `
     <div class="card">
-      <h2><em>Tono: <br></em>${randomCard2.tono}</h2>
+      <h2><em>Tono: <br></em>${randomCard2.tono}</h2><br>
       <img src="${randomCard.imagen}${randomCard.id}" alt="${randomCard.tono}">
       <p class="card-description">${randomCard.idea}</p>
     </div>

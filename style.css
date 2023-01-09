@@ -66,9 +66,6 @@ body {
   text-align: center;
   justify-content: center;
   overflow-wrap: break-word;
-  border-radius: 5px;
-  border: 2px solid #000000;
-  box-shadow: -1px 2px 10px 0px rgba(14, 0, 0, 0.67);
 }
 
 .card-description {

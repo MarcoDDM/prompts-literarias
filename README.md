@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="soyMarco.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Prompts for Stories Project</b></h3>
+  <h3><b>Marco Almada</b></h3>
 
 </div>
 
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Prompts for Stories Project <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 

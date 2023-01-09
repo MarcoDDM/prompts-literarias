@@ -164,5 +164,5 @@ document.querySelector('button').addEventListener('click', function() {
   // Asignamos el HTML generado a un elemento HTML
   document.querySelector('.cards').innerHTML = cardGenerated;
   // Cambia el contenido del boton para cuando se haya generado el primer card
-  document.querySelector('button').innerHTML = 'Generar otro'
+  document.querySelector('button').innerHTML = 'Generar otra'
 });

@@ -54,4 +54,5 @@ document.querySelector('button').addEventListener('click', function() {
   `;
   // Asignamos el HTML generado a un elemento HTML
   document.querySelector('.cards').innerHTML = cardGenerated;
+  document.querySelector('button').innerHTML = 'Generar otro'
 });

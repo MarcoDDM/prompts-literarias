@@ -44,7 +44,9 @@ document.querySelector('button').addEventListener('click', function() {
   const index2 = Math.floor(Math.random() * cardsArray.length);
   const randomCard = cardsArray[index];
   const randomCard2 = cardsArray[index2];
+  //Le asigno un nombre de variable a cards
   const element = document.querySelector('.cards');
+  //Hago que cuando clickee en la funcion cambie el display de cards de none a flex
   element.style.display = 'flex';
   // Generamos el HTML para el card aleatorio
   const cardGenerated = `
